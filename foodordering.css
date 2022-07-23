@@ -391,24 +391,47 @@ background-color: #000;
 .line{
   width:300px;
 }
+.heading3{
+  font-size: 25px;
+}
+
 }
 @media screen and (max-width: 500px){
   .images img {
     width: 270px;
+    height: 300px;
 }
 .content {
   width: 270px;
-  height: 510px;
+  height: 300px;
 }
 .box {
-  width: 300px;
+  width: 270px!important;
 }
+
 .about p {
-  padding: 10px 100px;
+  padding: 10px 50px!important;
 }
 .address{
-  padding: 0px 104px;
+  padding: 0px 100px!important;
 }
+
+.food_item{
+  width: 200px!important;
+}
+.food_item img{
+  width: 200px!important;
+}
+.food_item p{
+  font-size: 12px!important;
+}
+.index{
+  font-size: 12px!important;
+}
+.food_item h3{
+  font-size: 15px!important;
+}
+
 }
 @media screen and (max-width: 800px){
   .about p {
