@@ -399,11 +399,12 @@ background-color: #000;
 @media screen and (max-width: 500px){
   .images img {
     width: 270px;
-    height: 300px;
+   
 }
 .content {
   width: 270px;
-  height: 300px;
+
+  height: 200px;
 }
 .box {
   width: 270px!important;
@@ -430,6 +431,18 @@ background-color: #000;
 }
 .food_item h3{
   font-size: 15px!important;
+}
+
+.allitems span{
+  font-size: 12px;
+}
+
+.btn1{
+  font-size: 12px;
+  margin-top: 12px;
+}
+.heading3{
+  font-size: 17px;
 }
 
 }
