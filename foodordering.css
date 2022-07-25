@@ -17,7 +17,7 @@
 }
 
 header {
-  margin-top: 2%;
+  margin-top: 7%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -81,7 +81,12 @@ span {
   text-decoration: none;
   list-style: none;
   color: #fff;
-  padding-left: 15px;
+  margin: 0px 10px;
+  font-family: "gilroy";
+  
+ 
+ /* padding-left: 15px;*/
+ 
 }
 
 
@@ -125,8 +130,10 @@ transition: 300ms;
 
 .heading {
   font-size: 30px;
-  color: white;
+  color: #C3AF02;
   margin-bottom: 50px;
+  font-family: "maragsâ";
+  
 }
 
 /* .allitems {
@@ -239,13 +246,17 @@ background-color: #000;
 
 .social {
   /* font-size: 20px; */
-  color: white;
+  color: #C3AF02;
+  font-family: "maragsâ";
 }
 
 .col-wrapper-10 {
   color: white;
 }
-
+.allheading{
+  font-family: "maragsâ";
+  color: #C3AF02;
+}
 .contact_container {
   padding-top: 50px;
     display: flex;
@@ -284,11 +295,16 @@ background-color: #000;
 }
 
 .price {
-  width: 1150px;
+ width: 1150px;
+ font-family: "maragsâ";
+ font-size: 24px;
+ color: white!important;
 }
 .menu_header{
   display: flex;
   justify-content: center;
+text-align: center;
+  
 }
 .social_media a {
   text-decoration: none;
@@ -412,6 +428,7 @@ background-color: #000;
 
 .about p {
   padding: 10px 50px!important;
+  font-size: 18px;
 }
 .address{
   padding: 0px 100px!important;
@@ -443,6 +460,12 @@ background-color: #000;
 }
 .heading3{
   font-size: 17px;
+}
+header img{
+  width: 200px;
+}
+.nav-links a{
+  font-size: 15px!important;
 }
 
 }
