@@ -16,6 +16,11 @@
   font-family: "gilroy";
 }
 
+.phnlink{
+  text-decoration: none;
+  color: white;
+}
+
 header {
   margin-top: 7%;
   display: flex;
