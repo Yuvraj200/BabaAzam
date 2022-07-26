@@ -172,7 +172,7 @@ transition: 300ms;
 }
 
 .btn1 {
-  background-color: white;
+  background-color: #C3AF02;
   border: none;
   color: black;
   padding: 5px 20px;
@@ -422,7 +422,7 @@ text-align: center;
 @media screen and (max-width: 500px){
   .images img {
     width: 270px;
-    height: auto;
+    height: 200px;
    
 }
 .content {
