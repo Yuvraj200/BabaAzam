@@ -50,6 +50,11 @@ span {
   padding: 0px 20px;
 }
 
+.off{
+  font-size: 60px!important;
+  color: #c8b02d;
+}
+
 .welcome {
   align-items: center;
     /* margin-top: 30px; */
@@ -456,6 +461,9 @@ text-align: center;
 }
 .food_item h3{
   font-size: 15px!important;
+}
+.off{
+  font-size: 25px!important;
 }
 
 .allitems span{
