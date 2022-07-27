@@ -52,7 +52,7 @@ span {
   align-items: center;
   text-align: center;
   font-family: "maragsâ";
-  padding: 0px 20px;
+  padding: 0px 20px; 
 }
 
 .off{
@@ -199,7 +199,7 @@ background-color: #000;
 }
 
 .biryani {
-  color: #fff;
+  color: #c8b02d;
 }
 
 .description {
